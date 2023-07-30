@@ -18,9 +18,6 @@ The Our Games section has three buttons that allow the user to display only unfu
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 [loom](https://www.loom.com/share/5b74473a26df4975ace9801f1d44caae?sid=0b3b4daa-ebf9-4b5d-a2c9-704001b121e1)
